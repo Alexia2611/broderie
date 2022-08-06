@@ -1,3 +1,11 @@
-#header{
-    background-color: #cdb4db;
+body
+{
+    overflow-x:hidden;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.category{
+    font-size: x-large;
+    color:black;
 }
