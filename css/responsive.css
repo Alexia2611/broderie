@@ -13,6 +13,7 @@ No media query for `xs` since this is the default in Bootstrap */
         align-items: center;
     }
 
+
     #footer{
         margin: auto;
         font-size:medium;

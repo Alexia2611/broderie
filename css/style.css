@@ -42,4 +42,16 @@ h3{
 
 .card:hover {
     transform: scale(1.1);
+    animation: fadeInAnimation ease 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
 }
