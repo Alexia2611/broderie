@@ -26,12 +26,14 @@ a:hover{
     font-size: xx-large;
 }
 
-a:visited{
-    color: #84a59d;
-    font-size: x-large;
-}
+
 
 h3{
     font-family: 'Cormorant', serif;
     color: gray;
+}
+
+
+.card:hover {
+    transform: scale(1.1);
 }
