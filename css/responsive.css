@@ -8,11 +8,6 @@ No media query for `xs` since this is the default in Bootstrap */
         margin-top:5vh;
     }
 
-    .card{
-        justify-content: center;
-        align-items: center;
-    }
-
 
     #footer{
         margin: auto;
@@ -26,6 +21,10 @@ No media query for `xs` since this is the default in Bootstrap */
     .intro{
         margin:auto;
         margin-top:5vh;
+    }
+
+    h3{
+        font-size: xx-large;
     }
 
 }

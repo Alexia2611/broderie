@@ -18,8 +18,9 @@ body
 }
 #footer{
     background-color: #f6bd60;
-    height: 20vh;
+    height: 15vh;
     font-size: x-large;
+    margin-top: 5vh;
 }
 
 a{
@@ -46,6 +47,7 @@ h3{
     animation-fill-mode: forwards;
     animation-iteration-count: 1;
 }
+
 
 @keyframes fadeInAnimation {
     0% {
