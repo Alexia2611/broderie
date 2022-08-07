@@ -3,7 +3,20 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
+    .intro{
+        margin-right: -10vw;
+        margin-left: -10vw;
+        background-color: black;
+    }
+    .card{
+        display: none;
+    }
 
+    #footer{
+        margin: auto;
+        font-size:medium;
+        height: 15vh;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
