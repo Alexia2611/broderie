@@ -9,3 +9,24 @@ body
     font-size: x-large;
     color:black;
 }
+
+#footer{
+    background-color: #f6bd60;
+    height: 20vh;
+    font-size: x-large;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #f28482;
+    font-size: xx-large;
+}
+
+a:visited{
+    color: #84a59d;
+    font-size: x-large;
+}
